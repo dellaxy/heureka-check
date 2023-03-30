@@ -213,4 +213,4 @@ def get_server(ctx):
 
 
 
-client.run('ODM1NjE3OTM3Nzc5NTg5MTgw.YISD2Q.yIDl5jndZ3FiO33gddtwPl4k6aA')
+client.run(BOT_TOKEN)
